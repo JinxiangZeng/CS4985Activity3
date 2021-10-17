@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import edu.westga.cs3211.a2.model.GuessReport;
 import edu.westga.cs3211.a2.model.HiLowGame;
 
-class TestCheckGuess {
+class TestCheckGuess { 
 	
 	private class RandomFakeSpy extends Random {
 		public int callCount;
